@@ -2,7 +2,7 @@
 layout: default
 ---
 
-{% include_relative NavBar.md %}
+{% include NavBar.md %}
 
 ### Full Harness
 A knight's equippage, or _harness_, is vital to survival and success in combat. 
