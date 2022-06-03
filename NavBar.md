@@ -1,1 +1,1 @@
-## [Lands](/docs/lands)  [Laws](/docs/laws)
+## [Lands](/bshaw89.github.io/lands)  [Laws](/docs/laws)
