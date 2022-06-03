@@ -1,1 +1,1 @@
-## [Lands](https://bshaw89.github.io/gazateer/lands)  [Laws](gazateer/laws)  [Travel](gazateer/travel)  [Beliefs](gazateer/beliefs)  [Harness](gazateer/harness)  [Characters](gazateer/characters)
+### [Lands](https://bshaw89.github.io/gazateer/lands)  [Laws](https://bshaw89.github.io/gazateer/laws)  [Travel](https://bshaw89.github.io/gazateer/travel)  [Beliefs](https://bshaw89.github.io/gazateer/beliefs)  [Harness](https://bshaw89.github.io/gazateer/harness)  [Characters](https://bshaw89.github.io/gazateer/characters)
