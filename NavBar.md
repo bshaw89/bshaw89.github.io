@@ -1,1 +1,1 @@
-## [Lands](docs/lands.md)  [Laws](./laws.md)
+## [Lands](./lands.md)  [Laws](./laws.md)
