@@ -1,7 +1,8 @@
 ---
 layout: default
-include: NavBar.md
 ---
+
+{% include_relative NavBar.md %}
 
 ## Welcome to GitHub Pages
 
