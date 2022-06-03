@@ -1,1 +1,1 @@
-[Places](Header)    [Society](Header)
+## [Lands](lands.md)  [Laws](laws.md)
