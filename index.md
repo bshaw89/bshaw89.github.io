@@ -1,5 +1,6 @@
 ---
 layout: default
+include: NavBar.md
 ---
 
 ## Welcome to GitHub Pages
