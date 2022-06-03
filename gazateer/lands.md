@@ -2,6 +2,6 @@
 layout: default
 ---
 
-{% include_relative NavBar.md %}
+{% include NavBar.md %}
 
 Herein lies the records of the lands of the valley.
