@@ -1,1 +1,1 @@
-## [Lands](./lands.md)  [Laws](./laws.md)
+## [Lands](/gazateer/lands.md)  [Laws](/gazateer/laws.md)
