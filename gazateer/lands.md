@@ -7,7 +7,7 @@ layout: default
 Herein lies the records of the lands of the valley.
 
 ### Church of the Sapphire Rose
-An order of knights devoted to the Sapphire Rose, an ideal of chivalry, justice, and the 'romantic good.'
+An order of knights devoted to the Sapphire Rose, an ideal of purity, justice, and the 'romantic good.'
 Their symbol is a blue rose.
 
 ### Temple of the Twilight Sun
