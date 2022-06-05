@@ -10,6 +10,6 @@ Herein lies the records of the lands of the valley.
 An order of knights devoted to the Sapphire Rose, an ideal of purity, justice, and the 'romantic good.'
 Their symbol is a blue rose.
 
-### Temple of the Twilight Sun
+### Order of the Twilight Sun
 An order of knights dedicated to protecting the land from dark, recording history, and keeping light burning through the night.
 Their symbol is a church on a hill against a sunset.
