@@ -1,5 +1,5 @@
 let test = document.getElementById("test");
-
+console.log(test);
 // This handler will be executed only once when the cursor
 // moves over the unordered list
 test.addEventListener("mouseenter", function( event ) {
